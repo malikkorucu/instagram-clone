@@ -1,0 +1,4 @@
+export const LOGIN_USER = "LOGIN_USER";
+export const CHANGE_APP_LANGUAGE = "CHANGE_APP_LANGUAGE";
+export const CHANGE_APP_LOADER = "CHANGE_APP_LOADER";
+export const LOGOUT = "LOGOUT";
